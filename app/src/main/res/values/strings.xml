@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+
+
+    <string name="listen">Listeners</string>
+    <string name="amount1">1M+</string>
+   <string name="albumns">Albums</string>
+    <string name="amount2">300+</string>
+ <string name="trackss">Tracks</string>
+    <string name="john">John</string>
+ <string name="musix">1.5M+</string>
+
+
+
+
+
+
+
+
+
+
+    <string name="btn_plans">Manage User Plans and Payments</string>
+    <string name="btn_albums">Manage Albums and Tracks</string>
+    <string name="btn_achieve">Achievements</string>
+    <string name="song1">Galana Ganga</string>
+    <string name="singer1">Olivia Rodrigo</string>
+    <string name="count1">340</string>
+    <string name="count2">390</string>
+    <string name="song2">Galana Gaga</string>
+    <string name="singer3">BTS</string>
+    <string name="btn_create">Create New Album</string>
+    <string name="albumID">Album ID</string>
+    <string name="albumTitle">Album Title</string>
+    <string name="createdBy">Created By</string>
+    <string name="desc">Description</string>
+    <string name="btn_next" />
+    <string name="create_new_album">Create New Album</string>
+    <string name="albums_and_tracks">Albums and Tracks</string>
+
+    <string name="bts">BTS</string>
+    <string name="happier">Happier</string>
+
+    <string name="recently_launched_albums">Recently Launched Albums</string>
+    <string name="by_you">By You</string>
+    <string name="butter">Butter</string>
+
+
+    <string name="top_trending_songs">Top Trending Songs</string>
+    <string name="todo">todo</string>
+    <string name="home">Home</string>
+    <string name="notification">Notifications</string>
+    <string name="history">History</string>
+    <string name="edit">Edit Account</string>
+    <string name="delete">Delete Account</string>
+    <string name="exit">Log Out</string>
+    <string name="trackID">Track ID</string>
+    <string name="trackTitle">Track Title</string>
+    <string name="btn_adds">Add</string>
+    <string name="btn_nxt">Next</string>
+
+    <string name="btn_update">Update</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_view">View</string>
+    <string name="album1">Album1</string>
+
+   <string name="hello">Hello</string>
+   <string name="activity_dashboard">Activity Dashboard</string>
+   <string name="adminname">John Perera</string>
+   <string name="administrator">Administrator</string>
+
+
+</resources>
